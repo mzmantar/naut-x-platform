@@ -5,9 +5,6 @@ Interface de contrôle Electron pour le sous-marin robotique autonome NAUTILUS-X
 > **⚠️ PROTECTED PROJECT**  
 > This project and all its components are protected under intellectual property rights. Unauthorized copying, distribution, or modification is strictly prohibited. All rights reserved.
 
-> **Asset Credit**  
-> The file `public/nautilus_mk1.svg` is created by **Mohamed Mehdi Zmantar** and included as part of this project assets.
-
 ## 🚀 Description
 
 Application desktop moderne construite avec Electron, React et Vite pour contrôler et monitorer le sous-marin NAUTILUS-X en temps réel.
